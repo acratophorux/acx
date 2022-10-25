@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/acx/static/css/main.67ce9608.css",
+    "main.js": "/acx/static/js/main.b062310e.js",
+    "static/js/787.3bb0e828.chunk.js": "/acx/static/js/787.3bb0e828.chunk.js",
+    "static/media/me.jpeg": "/acx/static/media/me.6f779165681af240b6ea.jpeg",
+    "static/media/logo_golden_ratio.svg": "/acx/static/media/logo_golden_ratio.152c9ea4cb06301cdb16e61f3a017e87.svg",
+    "index.html": "/acx/index.html",
+    "main.67ce9608.css.map": "/acx/static/css/main.67ce9608.css.map",
+    "main.b062310e.js.map": "/acx/static/js/main.b062310e.js.map",
+    "787.3bb0e828.chunk.js.map": "/acx/static/js/787.3bb0e828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ce9608.css",
+    "static/js/main.b062310e.js"
+  ]
+}
